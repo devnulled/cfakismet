@@ -1,0 +1,25 @@
+<map version="0.8.0">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1154833485946" ID="Freemind_Link_1916941372" MODIFIED="1154835105567" TEXT="CFAkismet Documentation">
+<node CREATED="1154833925868" ID="Freemind_Link_1501468600" MODIFIED="1154833932102" POSITION="right" TEXT="Overview"/>
+<node CREATED="1154833556087" ID="_" MODIFIED="1154833566618" POSITION="right" TEXT="Quick Start Guide">
+<node CREATED="1154834498102" ID="Freemind_Link_950039679" MODIFIED="1154834516602" TEXT="Get A WordPress Key"/>
+<node CREATED="1154834541696" ID="Freemind_Link_1147153038" MODIFIED="1154834556618" TEXT="Place CFAkismet Into Your Application"/>
+<node CREATED="1154834602009" ID="Freemind_Link_1630122533" MODIFIED="1154834607431" TEXT="Invoke The Component"/>
+<node CREATED="1154834612024" ID="Freemind_Link_1423823569" MODIFIED="1154834633024" TEXT="Set Required Variables"/>
+<node CREATED="1154834696743" ID="Freemind_Link_374549388" MODIFIED="1154834711134" TEXT="Test The API Key" VSHIFT="-5"/>
+<node CREATED="1154834637009" ID="Freemind_Link_649971115" MODIFIED="1154834657509" TEXT="Submit a Comment to Akismet"/>
+</node>
+<node CREATED="1154833916306" ID="Freemind_Link_1178506043" MODIFIED="1154833921977" POSITION="left" TEXT="FAQ">
+<node CREATED="1154834948708" HGAP="26" ID="Freemind_Link_1197057409" MODIFIED="1154835089172" TEXT="What is Akismet?" VSHIFT="-21"/>
+<node CREATED="1154835035843" ID="Freemind_Link_1026583574" MODIFIED="1154835095642" TEXT="Why should I use this?" VSHIFT="-7"/>
+</node>
+<node CREATED="1154833936774" HGAP="32" ID="Freemind_Link_478034980" MODIFIED="1154835091751" POSITION="left" TEXT="References" VSHIFT="51"/>
+<node CREATED="1154833967821" ID="Freemind_Link_1386722367" MODIFIED="1154834729602" POSITION="right" TEXT="Integrating Akismet Into Your Application" VSHIFT="45">
+<node CREATED="1154834747056" ID="Freemind_Link_1860828846" MODIFIED="1154834755618" TEXT="Checking Comments"/>
+<node CREATED="1154834859854" ID="Freemind_Link_835802973" MODIFIED="1154834873358" TEXT="Moderating Failed Comments"/>
+<node CREATED="1154834883189" ID="Freemind_Link_749642935" MODIFIED="1154834895677" TEXT="Submitting False Positives"/>
+<node CREATED="1154834908056" ID="Freemind_Link_1524651588" MODIFIED="1154834918278" TEXT="Submitting False Negatives"/>
+</node>
+</node>
+</map>

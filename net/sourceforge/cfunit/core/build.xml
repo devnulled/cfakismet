@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<!--
+*** CFUnit CFUnit-Ant Build Template                           ***
+*** http://cfunit.sourceforge.net                              ***
+
+*** @verion 1.0                                                ***
+***          Robert Blackburn (http://www.rbdev.net)           ***
+***          Initial Creation                                  ***
+--> 
+
+<project name="CFUnit" default="all" basedir=".">
+	<taskdef name="CFUnit" classname="net.sourceforge.cfunit.ant.CFUnit"/>
+	
+	<!-- Set this property to the location of your tests -->
+	<property name="domain" value="http://localhost/" />
+	
+	<target name="all">
+		<!-- Add one <CFUnit> tag for each test to execute -->
+		<CFUnit testcase="${domain}/TestMyCFC.cfc" verbose="true" />
+	</target>
+	
+</project>
