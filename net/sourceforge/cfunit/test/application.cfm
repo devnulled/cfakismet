@@ -1,0 +1,1 @@
+<cfset APPLICATION.root = "CFUnit.src.net.sourceforge.cfunit">
